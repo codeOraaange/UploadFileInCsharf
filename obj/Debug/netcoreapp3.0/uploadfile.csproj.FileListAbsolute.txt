@@ -1,0 +1,105 @@
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csprojAssemblyReference.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.Manifest.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.xml
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.MvcApplicationPartsAssemblyInfo.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfoInputs.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfo.cs
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\appsettings.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.exe
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.deps.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.dev.json
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.dll
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.pdb
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.dll
+D:\NENG\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.input.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.output.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorCoreGenerate.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cache
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cs
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.dll
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.pdb
+D:\NENG\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csproj.CopyComplete
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.exe
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.deps.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.dev.json
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.dll
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.pdb
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.dll
+D:\Hana Hasanah\New folder\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csprojAssemblyReference.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.xml
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfoInputs.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfo.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.input.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.output.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorCoreGenerate.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.dll
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.pdb
+D:\Hana Hasanah\New folder\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csproj.CopyComplete
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.exe
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.deps.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.runtimeconfig.dev.json
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.dll
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.pdb
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.dll
+D:\Hana Hasanah\per dotnet an\uploadfile\bin\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csprojAssemblyReference.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\staticwebassets\uploadfile.StaticWebAssets.xml
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorAssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfoInputs.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.AssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.input.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.TagHelpers.output.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorCoreGenerate.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.Views.pdb
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.dll
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.pdb
+D:\Hana Hasanah\per dotnet an\uploadfile\obj\Debug\netcoreapp3.0\uploadfile.csproj.CopyComplete
